@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "django:block/ruby_ore" }
+  }
+}

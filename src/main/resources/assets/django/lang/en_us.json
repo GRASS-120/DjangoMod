@@ -1,0 +1,13 @@
+{
+  "itemGroup.djangoTab": "Django",
+  "item.django.ruby": "Рубин",
+  "item.django.charged_ruby": "Заряженный рубин",
+  "block.django.ruby_block": "Рубиновый блок",
+  "item.django.mystical_ingot": "Мистический слиток",
+  "item.django.mystical_essence": "Мистическая эссенция",
+  "block.django.ruby_ore": "Рубиновая руда",
+  "item.django.ruby_pickaxe": "Рубиновый меч",
+  "item.django.ruby_shovel": "Рубиновая лопата",
+  "item.django.ruby_axe": "Рубиновый топор",
+  "item.django.ruby_hoe": "Рубиновая мотыга"
+}

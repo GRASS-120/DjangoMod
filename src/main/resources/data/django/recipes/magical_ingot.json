@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "eee",
+    "eie",
+    "eee"
+  ],
+  "key":
+  {   "e":
+    {
+      "item": "django:mystical_essence"
+    },
+    "i":
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "django:mystical_ingot",
+    "count": 1
+  }
+}

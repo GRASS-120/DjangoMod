@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "django:ruby_ore"
+  },
+  "result": "django:ruby",
+  "experience": 1.0,
+  "cookingtime": 200
+}
